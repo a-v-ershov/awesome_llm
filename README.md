@@ -13,3 +13,5 @@
 * [CopyAI](https://www.copy.ai/) is a company similar to Jasper AI. It also has a lot of templates and uses GPT models under the hood.
 * [Frase](https://www.frase.io/) is a company that focuses on generating texts for SEO.
 * [HuggingFace](https://huggingface.co/) is a company that provides a lot of [NLP models](https://huggingface.co/models) and the [Transformers library](https://huggingface.co/transformers/) to work with them. It also has a [paid API](https://huggingface.co/pricing) that allows to train and run models on its cloud.
+
+## GitHub repositories
